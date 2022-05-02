@@ -1,0 +1,142 @@
+/* body{
+    background-color: #e6e6e6;
+} */
+
+
+
+.statement-hero{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    background: url('https://ucarecdn.com/3d06e2fa-be1a-4f84-9f85-d95be29868be/');
+    color: white;
+}
+
+.about-container{
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+
+.about-section{
+    width: 50vw;
+    margin: auto;
+    margin-top: 3rem;
+    font-size: large;
+    margin-bottom: 3rem;
+}
+
+.div-1,
+
+.div-3,
+.div-4,
+
+.div-6,
+.div-7,
+.div-8{
+    width: 400px;
+    height: 68vh;
+    background-color: rgb(255, 255, 255);
+    margin: 0.7rem;
+    transition: 0.8s all ease-in-out; 
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}
+
+.div-1:hover,
+
+.div-3:hover,
+.div-4:hover,
+.div-5:hover,
+.div-6:hover,
+.div-7:hover,
+.div-8:hover{
+
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+
+
+
+.div-1 img,
+.div-4 img,
+.div-6 img,
+.div-8 img
+{
+    width: 100%;
+    height: 210px;
+
+}
+
+.about-card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin: 1rem;
+    text-align: justify;
+}
+
+.about-card-content span{
+    color: #7a9dc4;
+}
+
+.logo-card{
+    height: 80%;
+    background-color: #000000c5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+
+}
+
+.logo-card img{
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.div-3,
+.div-5{
+    background-color: #156fbe;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.div-3 a,
+.div-5 a{
+    
+    border: 1px solid white;
+    padding: 0.8rem 1rem;
+    border-radius: 25px;
+    width: 160px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.div-5 a{
+    width: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+.stat-head{
+    margin-top: 3rem;
+}
+
+.stat-sub{
+    font-size: 2ch;
+}

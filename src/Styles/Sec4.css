@@ -1,0 +1,28 @@
+#sec4{
+    background-color: #0e1b31;
+    color: white;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#sec4 a{
+    cursor: pointer;
+    border: 2px solid white;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    color: white;
+
+}
+
+#sec4 p{
+    width: 35vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4rem;
+}
+#sec4 h2{
+margin-bottom: 2rem;
+}

@@ -1,0 +1,48 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 10rem;
+    background-color: #2a2d30;
+    color: white;
+    align-items: center;
+    width: 100vw;
+}
+
+.links a{
+    position: relative;
+margin-left: 3rem;
+cursor: pointer;
+color: white;
+}
+
+
+
+.socials img{
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    margin-left: 1rem;
+    transition: 0.5s all ease;
+}
+
+.socials img:hover{
+    transform: scale(1.04);
+}
+
+.links a:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #fff;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+  .links a:hover:after { 
+    width: 100%; 
+    left: 0; 
+  }

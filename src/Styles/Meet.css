@@ -1,0 +1,165 @@
+/* body{
+    background-color: #e6e6e6;
+} */
+#team{
+   
+    background-size: cover;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0MDAnIGhlaWdodD0nNDAwJyB2aWV3Qm94PScwIDAgNDAwIDQwMCc+CjxkZWZzPgoJPHBhdHRlcm4gaWQ9J2JsdWVzdHJpcGUnIHBhdHRlcm5Vbml0cz0ndXNlclNwYWNlT25Vc2UnIHg9JzAnIHk9JzAnIHdpZHRoPScxMCcgaGVpZ2h0PScyMCcgdmlld0JveD0nMCAwIDUgMTAnID4KCQk8cmVjdCB4PSctNScgeT0nLTUnIHdpZHRoPScxNScgaGVpZ2h0PScyMCcgZmlsbD0nI2Q2ZGRkZCcvPgoJCTxsaW5lIHgxPSctMicgeTE9JzEnIHgyPSc3JyB5Mj0nMTAnIHN0cm9rZT0nI2RkZTJlMycgc3Ryb2tlLXdpZHRoPScyJy8+CgkJPGxpbmUgeDE9Jy0yJyB5MT0nNicgeDI9JzcnIHkyPScxNScgc3Ryb2tlPScjZGRlMmUzJyBzdHJva2Utd2lkdGg9JzInLz4KCQk8bGluZSB4MT0nLTInIHkxPSctNCcgeDI9JzcnIHkyPSc1JyBzdHJva2U9JyNkZGUyZTMnIHN0cm9rZS13aWR0aD0nMicvPgoJCTxsaW5lIHgxPSc3JyB5MT0nMScgeDI9Jy0yJyB5Mj0nMTAnIHN0cm9rZT0nI2RkZTJlMycgc3Ryb2tlLXdpZHRoPScyJy8+CgkJPGxpbmUgeDE9JzcnIHkxPSc2JyB4Mj0nLTInIHkyPScxNScgc3Ryb2tlPScjZGRlMmUzJyBzdHJva2Utd2lkdGg9JzInLz4KCQk8bGluZSB4MT0nNycgeTE9Jy00JyB4Mj0nLTInIHkyPSc1JyBzdHJva2U9JyNkZGUyZTMnIHN0cm9rZS13aWR0aD0nMicvPgoJPC9wYXR0ZXJuPiAKCTxmaWx0ZXIgaWQ9J2Z1enonIHg9JzAnIHk9JzAnPgoJCTxmZVR1cmJ1bGVuY2UgdHlwZT0ndHVyYnVsZW5jZScgcmVzdWx0PSd0JyBiYXNlRnJlcXVlbmN5PScuMiAuMScgbnVtT2N0YXZlcz0nMicgc3RpdGNoVGlsZXM9J3N0aXRjaCcvPgoJCTxmZUNvbG9yTWF0cml4IHR5cGU9J3NhdHVyYXRlJyBpbj0ndCcgdmFsdWVzPScwLjQnLz4KCQk8ZmVDb252b2x2ZU1hdHJpeCBvcmRlcj0nMywzJyBrZXJuZWxNYXRyaXg9JzAsLS4yNSwwLC0uMjUsMiwtLjI1LDAsLS4yNSwwJy8+Cgk8L2ZpbHRlcj4KPC9kZWZzPgo8cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPSd1cmwoI2JsdWVzdHJpcGUpJy8+CjxyZWN0IHdpZHRoPScxMDAlJyBoZWlnaHQ9JzEwMCUnIGZpbHRlcj0ndXJsKCNmdXp6KScgb3BhY2l0eT0nMC4xJy8+Cjwvc3ZnPg==);
+}
+.statement-hero{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    background: url('https://ucarecdn.com/3d06e2fa-be1a-4f84-9f85-d95be29868be/');
+    color: white;
+}
+
+#team .about-container{
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   padding: 2rem;
+}
+
+.about-section{
+    width: 50vw;
+    margin: auto;
+    margin-top: 3rem;
+    font-size: large;
+    margin-bottom: 3rem;
+}
+
+
+.div-5
+{
+    width: 400px;
+    height: 68vh;
+    background-color: rgb(255, 255, 255);
+    margin: 0.7rem;
+    transition: 0.8s all ease-in-out; 
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.div-1:hover,
+
+.div-3:hover,
+.div-4:hover,
+.div-5:hover,
+.div-6:hover,
+.div-7:hover,
+.div-8:hover{
+
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+
+
+
+.div-1 img,
+.div-4 img,
+.div-6 img,
+.div-8 img
+{
+    width: 100%;
+    height: 210px;
+
+}
+
+.about-card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin: 1rem;
+    text-align: justify;
+}
+
+.about-card-content span{
+    color: #7a9dc4;
+}
+
+.logo-card{
+    height: 80%;
+    background-color: #000000c5;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+
+}
+
+.logo-card img{
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.div-3,
+.div-5{
+    background-color: #156fbe;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.div-3 a,
+.div-5 a{
+    
+    border: 1px solid white;
+    padding: 0.8rem 1rem;
+    border-radius: 25px;
+    width: 160px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.div-5 a{
+    width: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.profile-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.19);
+    padding: 8px;
+
+}
+
+.name{
+    font-size: 2.6ch;
+}
+
+.major{
+    font-size: 1.8ch;
+}
+
+#profile{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.meet-head{
+    padding-top: 3rem;
+    font-size: 4.5ch;
+    font-weight: 800;
+}
+
+.meet-sub{
+    font-size: 2ch;
+}
