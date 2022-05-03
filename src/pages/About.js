@@ -8,6 +8,7 @@ const About = () => {
     <section id='about'>
          <Navbar/>
         <div className='about-hero'>
+             <img src="https://ucarecdn.com/6acdc010-7d62-4d60-89ff-290298852596/"/>
             <h2>About Us</h2>
         </div>
         <div className='about-section'>
@@ -24,11 +25,6 @@ const About = () => {
                     We’ve teamed up with America’s #1 Collagen Brand*, Vital Proteins®, to bring you three new smoothies available for a limited time only! Each smoothie is blended with 10g of Vital Proteins Collagen Peptides to help support healthy hair, skin, nails and joints.**
                     </p>
                 </div>
-            </div>
-            <div data-aos="fade-up" className='div-2'>
-            <video height = "500px"id='video-about' loop autoPlay muted>
-                 <source src="https://vod-progressive.akamaized.net/exp=1651371100~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1335%2F14%2F356679802%2F1454893014.mp4~hmac=d798549296fd021943b285855829bed3163fb2ae00a6e5c398325db5d378bfc3/vimeo-prod-skyfire-std-us/01/1335/14/356679802/1454893014.mp4?filename=manifesto-looping-no-audio.mp4"  type="video/mp4"/>
-           </video>
             </div>
             <div data-aos="fade-up" className='div-3'>
                 <div className='about-card-content'>
@@ -62,16 +58,7 @@ const About = () => {
                     <p>There are a number of benefits from consuming smoothies, they increase fibre intake, contribute towards our 5 a day, boost our vitamin C levels and may help with conditions like high blood pressure</p>
                 </div>
             </div>
-            <div data-aos="fade-up" className='div-7'>
-                <div className='logo-card'>
-                     
-                    <h3>Juice Galore</h3>
             
-                </div>
-                <div className='about-card-content'>
-                    <span>Check Out Our Financial Statement</span>
-                </div>
-            </div>
             <div data-aos="fade-up" className='div-8'>
                 <img src='https://ucarecdn.com/4c6f8d35-eaba-4d52-8864-6abef680c669/'/>
                 <div className='about-card-content'>

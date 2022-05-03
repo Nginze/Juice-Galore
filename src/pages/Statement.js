@@ -8,6 +8,7 @@ const Statement = () => {
     <section id='statement'>
     <Navbar/>
    <div className='statement-hero'>
+       <img src=" https://ucarecdn.com/3d06e2fa-be1a-4f84-9f85-d95be29868be/"/>
        <h2>Our Financial Statements</h2>
    </div>
    <h2 className='stat-head'>Company & Investements</h2>

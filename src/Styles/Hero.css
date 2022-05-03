@@ -17,38 +17,60 @@
 .img-container1{
     width: 100vw;
     margin: auto;
-    background-image:url(https://ucarecdn.com/aeb9fcf1-2e62-4294-a179-326156117ca8/);
     background-repeat: no-repeat;
     background-size: cover;
 
     /* filter: brightness(0.7); */
 }
+
+.img-container1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
 .img-container2{
     width: 100vw;
     margin: auto;
-    background-image:url(https://ucarecdn.com/0f3bcd37-0272-4f23-9022-7d66b5034ac3/);
     background-repeat: no-repeat;
     background-size: cover;
   
     
+}
+.img-container2 img{
+
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
 }
 .img-container3{
     width: 100vw;
     margin: auto;
-    background-image:url(https://ucarecdn.com/0a0c7e3b-962e-46a2-8cda-681c6bd839c5/);
+
     background-repeat: no-repeat;
     background-size: cover;
   
     
 }
+
+.img-container3 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 .img-container4{
     width: 100vw;
     margin: auto;
-    background-image:url(https://ucarecdn.com/b8106e76-6c6e-4f70-b973-0039b17cf6ed/);
+ 
     background-repeat: no-repeat;
     background-size: cover;
     
     
+}
+.img-container4 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 .content{
     color: rgb(255, 255, 255);

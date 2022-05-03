@@ -5,15 +5,29 @@
 
 
 .about-hero{
+    position: relative;
     width: 100vw;
     height: 90vh;
-    display: flex;
     justify-content: center;
-    background: url('https://ucarecdn.com/6acdc010-7d62-4d60-89ff-290298852596/');
     color: white;
+
     
 }
+.about-hero img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
+.about-hero h2{
+
+    position: absolute;
+    top:18rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
 .about-container{
     display: flex;
     width: 100vw;
