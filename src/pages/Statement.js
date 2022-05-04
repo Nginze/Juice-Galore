@@ -20,7 +20,7 @@ const Statement = () => {
            <div className='about-card-content'>
                <h3>Juice Galore</h3>
                <h3>Cashflows</h3>
-               <a target='_blank' href='https://maroon-lily-16.tiiny.site/'>View</a>
+               <a target='_blank' href='https://pdfhost.io/v/RdJnaTuvZ_Juice_Galore_Assignmnent_3_3'>View</a>
            </div>
        </div>
      
@@ -29,29 +29,29 @@ const Statement = () => {
            <div className='about-card-content'>
               <h3>Underlying Assumptions</h3>
               <h3>for projects</h3>
-              <a target='_blank' href='https://docdro.id/LgF8Oku'>View</a>
+              <a target='_blank' href='https://pdfhost.io/v/luTW8PGRR_Juice_Galore_Assignmnent_3_5'>View</a>
               
            </div>
        </div>
        <div data-aos="fade-up" className='div-5'>
         
            <div className='about-card-content'>
-              <h3>Profits and Loans </h3>   
-              <a target='_blank' href='https://docdro.id/ydA2Edc'>View</a>
+              <h3>Profits and Losts </h3>   
+              <a target='_blank' href='https://pdfhost.io/v/t1Mh7pwTz_Juice_Galore_Assignmnent_3_1'>View</a>
            </div>
        </div>
        <div data-aos="fade-up" className='div-5'>
         
         <div className='about-card-content'>
-           <h3>Revenue Projection </h3>   
-           <a target='_blank' href='https://docdro.id/9AKHNYj'>View</a>
+           <h3>Projected Financ. Position</h3>   
+           <a target='_blank' href='https://pdfhost.io/v/AWpsOWxYV_Juice_Galore_Assignmnent_3_2'>View</a>
         </div>
     </div>
     <div data-aos="fade-up" className='div-5'>
         
         <div className='about-card-content'>
-           <h3>Revenue Projection </h3>   
-           <a target='_blank' href='https://docdro.id/9AKHNYj'>View</a>
+           <h3>Initial Financial Position </h3>   
+           <a target='_blank' href='https://pdfhost.io/v/sncVuw7xH_Juice_Galore_Assignmnent_3'>View</a>
         </div>
     </div>
    
