@@ -36,7 +36,7 @@ const Statement = () => {
        <div data-aos="fade-up" className='div-5'>
         
            <div className='about-card-content'>
-              <h3>Profits and Losts </h3>   
+              <h3>Income Statements </h3>   
               <a target='_blank' href='https://pdfhost.io/v/t1Mh7pwTz_Juice_Galore_Assignmnent_3_1'>View</a>
            </div>
        </div>
